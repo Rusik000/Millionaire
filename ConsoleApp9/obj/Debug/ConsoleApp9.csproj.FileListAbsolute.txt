@@ -1,0 +1,14 @@
+C:\Users\Ruslan\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\Ruslan\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\Ruslan\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\Ruslan\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\Ruslan\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\Ruslan\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+C:\Users\Must_nu73\Desktop\123\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\Must_nu73\Desktop\123\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\Must_nu73\Desktop\123\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\Must_nu73\Desktop\123\ConsoleApp9\obj\Debug\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\Must_nu73\Desktop\123\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Must_nu73\Desktop\123\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\Must_nu73\Desktop\123\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
